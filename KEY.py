@@ -1,1 +1,0 @@
-AUTHKEY = "RGAPI-67d8efa8-ca19-4f68-bee6-27daa7a9a90b"
